@@ -1,0 +1,48 @@
+name: taamin
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  align_positioned: ^1.2.6
+  sailor: ^0.7.1
+  provider: ^4.1.2
+  flutter_spinkit: ^4.1.2+1
+  firebase_auth: ^0.16.1
+  #shared_preferences: ^0.5.7+3
+  path_provider: ^1.6.9
+  flutter_facebook_login: ^3.0.0
+  google_sign_in: ^4.5.1
+  cloud_firestore: ^0.13.6
+  fluttertoast: ^4.0.1 
+  input_sheet: ^0.1.1
+  camera: ^0.5.8+1
+  flutter_cupertino_date_picker: ^1.0.12
+  feather_icons_flutter: ^4.7.4
+  loading_overlay: ^0.2.1
+  firebase_storage: ^3.1.6
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+  uses-material-design: true
+
+
+  assets:
+   - assets/images/
+
+  fonts:
+   - family: CM Sans Serif
+     fonts:
+       - asset: assets/fonts/cm_sans_serif_2012.ttf

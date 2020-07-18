@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "174213188055",
+    "firebase_url": "https://taamin-13fa5.firebaseio.com",
+    "project_id": "taamin-13fa5",
+    "storage_bucket": "taamin-13fa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174213188055:android:d33c391117e4cc4c486392",
+        "android_client_info": {
+          "package_name": "com.finance.taamin2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174213188055-jidaovkesqje46a3utd7n0dt2uo7ge9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finance.taamin2",
+            "certificate_hash": "4835364fb68929900e48ffbbc7a4f313f134e704"
+          }
+        },
+        {
+          "client_id": "174213188055-v5dae69rs53uq5nknj84gklko2vkunr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeUXgUAfJ5DR0oOESi_IWoCs_StN3eEPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174213188055-v5dae69rs53uq5nknj84gklko2vkunr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
